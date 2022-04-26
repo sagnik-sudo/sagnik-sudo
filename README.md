@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Tensorflow, Play Framework, Scala**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagnik-sudo](https://github.com/sagnik-sudo)
+- 👨‍💻 All of my projects are available at [github.com/sagnik-sudo](https://github.com/sagnik-sudo)
 
-- 💬 Ask me about **Python, Pandas, Spark**
+- 💬 Ask me about **Python, Python ML Frameworks, Scala, Spark**
 
 - 📫 How to reach me **sagnikdas2305@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/sagnik-resume](https://tinyurl.com/sagnik-resume)
+- 📄 Know about my experiences [here](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik's%20Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny :)**
 
