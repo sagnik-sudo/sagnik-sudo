@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagnik Das</h1>
-<h3 align="center">A passionate data science engineer from Kolkata, India</h3>
+
+![mylogo](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik%20Logo.jpeg "Sagnik's Profile")
 
 - 🔭 I’m currently working on **Database Store Portal**
 
