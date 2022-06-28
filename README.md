@@ -2,9 +2,9 @@
 
 ![mylogo](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik%20Logo.jpeg "Sagnik's Profile")
 
-- 🔭 I’m currently working on **Database Store Portal**
+- 🔭 I’m currently working on **Google Cloud Platform**
 
-- 🌱 I’m currently learning **Tensorflow, Play Framework, Scala**
+- 🌱 I’m currently learning **Big Query, Google Looker, DAG**
 
 - 👨‍💻 All of my projects are available at [github.com/sagnik-sudo](https://github.com/sagnik-sudo)
 
