@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sagnik Das</h1>
 
-![mylogo](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik%20Logo.jpeg "Sagnik's Profile")
+![mylogo](./Sagnik%20Logo.jpeg "Sagnik's Profile")
 
 - 🔭 I’m currently working on **Google Cloud Platform**
 
-- 🌱 I’m currently learning **Big Query, Google Looker, DAG**
+- 🌱 I’m currently learning **AI / ML**
 
 - 👨‍💻 All of my projects are available at [github.com/sagnik-sudo](https://github.com/sagnik-sudo)
 
-- 💬 Ask me about **Python, Python ML Frameworks, Scala, Spark**
+- 💬 Ask me about **Python, Python ML Frameworks, Google Cloud Platform**
 
 - 📫 How to reach me **sagnikdas2305@gmail.com**
 
-- 📄 Know about my experiences [here](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik's%20Resume.pdf)
+<!-- - 📄 Know about my experiences [here](https://github.com/sagnik-sudo/sagnik-sudo/blob/main/Sagnik's%20Resume.pdf) -->
 
-- ⚡ Fun fact **I think I am funny :)**
+- ⚡ Fun fact -  **There are only 10 types of people in the world: those who understand binary and those who don’t.** 😂
+
+    **Do you get it? Binary is a system of numbers that uses only two digits: 0 and 1. So, 10 in binary is actually 2 in decimal. Therefore, the joke is saying that only those who understand binary can read the number 10 as 2, while the rest will read it as 10. It’s a clever way of using binary to divide people into two groups. 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
