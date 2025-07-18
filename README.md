@@ -1,32 +1,58 @@
-<h1 align="center">Hey there 👋</h1>
+# Hey there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1300&width=435&lines=I'm+Sagnik;I'm+an+aspiring+Data+Scientist)](https://git.io/typing-svg)
-<h5>In active learning pursuit of</h5>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=600&lines=I'm+Sagnik+-+Data+Engineer+%E2%86%92+AI%2FML+Engineer;6%2B+years+building+scalable+data+pipelines;Now+specializing+in+Computer+Vision+%26+LLMs)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=Neural+Networks;Computer+Vision;Deep+Learning;Natural+Language+Processing;Cloud+Data+Engineering;Large+Language+Models;Reinforcement+Learning;Probabilistic+Robotics)](https://git.io/typing-svg)
+## 💫 About Me
 
-![mylogo](./Sagnik%20Logo.jpeg "Sagnik's Profile")
+👨‍💼 **Data Engineer** with 6+ years of experience building production ETL pipelines on GCP/Azure  
+🎓 Currently pursuing **M.Sc. AI & Robotics** at Technische Universität Nürnberg, Germany  
+🚀 Transitioning from Data Engineering to **AI/ML Engineering** roles  
+💡 **Proven track record**: 30% traceability improvements, 25% faster processing, 40% automation gains  
+🔬 **Current focus**: Computer Vision, Deep Learning, MLOps  
 
-# 💫About Me :
-👨‍🎓 I’m currently pursuing a Master’s in AI & Robotics at Technische Universität Nürnberg, Germany.
-🌱 I’m currently learning about Neural Networks, Computer Vision, and Robotics.
-🤝 I’m looking to collaborate on exciting AI and Robotics projects.
-💬 Ask me about AI/ML concepts, Data Engineering, and Cloud Platforms.
-⚡ Fun fact: I have over 6 years of experience in data engineering and love creating scalable solutions!
+🤝 I'm looking to collaborate on AI/ML projects that solve real-world problems  
+💬 Ask me about **Data Engineering**, **Cloud Platforms**, **Computer Vision**.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagnik-das) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@NickInDeutschland) 
+⚡ Fun fact: From automating 40% of medical data processing to training neural networks - I love making machines smarter!
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊GitHub Stats :
+### 🔮 7-Day Load Forecasting with DeepAR
+- **Tech Stack**: AutoGluon, AWS Redshift, Python
+- **Impact**: Robust short-term predictions outperforming naive baseline
+- **Data**: 4 months of production AWS Redshift data
+
+### 🚴 ResNet-based Anticipatory Bike Scene Recognition  
+- **Tech Stack**: PyTorch, OpenCV, YOLO
+- **Goal**: Automatic switching between high/low beam headlights
+- **Status**: Active prototype development
+
+### 🏥 Medical Data ETL Framework
+- **Tech Stack**: Scala, Spark, MinIO, PostgreSQL
+- **Impact**: 40% reduction in manual processing effort
+- **Compliance**: HIPAA-compliant data transformations
+
+## 💻 Tech Stack
+
+### 🏆 Production Experience (6+ years)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### 🌱 Currently Learning & Applying
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+### 📝 Documentation & Markup
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+## 🏆 Professional Achievements
+
+- **30% increase** in data traceability through Solidatus-based lineage models
+- **25% reduction** in processing time via optimized BigQuery materialized views  
+- **40% automation** of medical file processing (PDF, PNG, HL7)
+- **1M+ employee** talent data processing for internal project staffing
+- **HIPAA-compliant** data transformation pipelines in production
+
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagnik-sudo&rank_icon=github&theme=gradient&include_all_commits=true&hide=contribs)
 
-![](https://github-trophies.vercel.app/?username=sagnik-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=1&tier=long)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 💰You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sagnik.das) 
-  
+*"From building data pipelines to teaching machines to see - the journey continues!"*
