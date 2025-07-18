@@ -4,7 +4,6 @@
 - 🎓 **M.Sc. AI & Robotics** @ TU Nürnberg  
 - 💡 **Proven results**: 30% traceability ↑, 25% processing time ↓ for Cloud Big Data
 - 🔬 **Current focus**: Computer Vision, Deep Learning, Large Language Models
-- 🌍 **Location**: Nürnberg, Germany | **Status**: Open to opportunities
 
 ## Most Impactful Projects
 
@@ -13,13 +12,6 @@
 
 ### Bike Scene Recognition with ResNet18
 **PyTorch • OpenCV • Computer Vision** → Automatic headlight switching prototype
-
----
-
-## Tech Stack
-
-**Production (6+ years):** Python • Scala • GCP • Airflow • PostgreSQL • FastAPI  
-**Currently Learning:** PyTorch • OpenCV • Computer Vision • Deep Learning • LLMs
 
 ---
 
